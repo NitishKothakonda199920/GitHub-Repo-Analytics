@@ -13,4 +13,7 @@ cd GitHub-Repo-Analytics
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
-
+### Usage
+python setup_db.py
+python fetch_data.py
+python visualize.py

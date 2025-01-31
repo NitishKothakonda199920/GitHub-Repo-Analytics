@@ -14,8 +14,3 @@ python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 
-##Usage
-python setup_db.py
-python fetch_data.py
-python visualize.py
-<img width="646" alt="image" src="https://github.com/user-attachments/assets/21f5d740-a350-4a1c-9e60-eab809083e46" />
